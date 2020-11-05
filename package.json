@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A mern stack e-commerce app",
   "main": "app.js",
-  "author": "Sajid Ansari",
+  "author": "WhiteBearCOder",
   "license": "MIT",
   "scripts": {
     "start": "NODE_ENV=production node app.js",
